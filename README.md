@@ -3,6 +3,7 @@
 
 Redaxscript
 ===========
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/redaxmedia/redaxscript?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 > Redaxscript is an ultra lightweight CMS, simplifying the world of complex online projects. Experience the future of web design and development - leave behind the confusion and build websites intuitively.
 
